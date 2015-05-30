@@ -1,5 +1,6 @@
 #My Better Git Projectn is Better 
 this is a change
+this is change2
 
 ##subtitle
 This is a newer readme file a
